@@ -1,2 +1,2 @@
 # Parkinson-s-Diease-Prediction
-I developed Parkinson's Diease Prediction using - XG Boost Classifier.
+I developed this Parkinson's Diease Prediction using - XG Boost Classifier.
